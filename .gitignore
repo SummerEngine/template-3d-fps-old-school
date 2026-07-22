@@ -1,0 +1,5 @@
+﻿# Godot 4 import + editor cache
+.godot/
+*.import
+*.bak
+.summer/local/
