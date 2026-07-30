@@ -1,6 +1,6 @@
 {
   "id": "3d-fps-old-school",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Old-School 3D FPS Arena",
   "engineMinVersion": "0.5.43",
   "entryScene": "res://main.tscn",
