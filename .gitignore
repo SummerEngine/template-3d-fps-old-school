@@ -1,5 +1,6 @@
-﻿# Godot 4 import + editor cache
+# Godot 4 import + editor cache
 .godot/
-*.import
+# *.import files are import settings + uids for the shipped PNG assets; commit them
+# once an editor pass has generated them so every clone imports identically.
 *.bak
 .summer/local/
