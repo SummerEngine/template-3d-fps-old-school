@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="quake test"
+config/name="Old-School 3D FPS Arena"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 
@@ -23,7 +23,7 @@ window/stretch/aspect="expand"
 
 [dotnet]
 
-project/assembly_name="quake test"
+project/assembly_name="OldSchool3DFPSArena"
 
 [input]
 
